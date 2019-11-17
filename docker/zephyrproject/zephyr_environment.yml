@@ -6,4 +6,5 @@ dependencies:
     - setuptools
     - tk
     - wheel
+    - west
  
